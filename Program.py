@@ -18,8 +18,6 @@ for i in menu_category:
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-
-
 # ====================Backend Functions===========================
 def load_menu():
     menuCategory.set("")
